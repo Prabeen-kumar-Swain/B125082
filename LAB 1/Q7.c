@@ -43,7 +43,9 @@ int main() {
     }
     avg = avg/5;
 
-    printf("Highest marks secured by: %s\n",s[max].name);
+    printf("Highest marks secured by: \nName: %s\n",s[max].name);
+    printf("Roll : %d\n", s[highest].roll);
+    printf("Marks: %.2f\n", s[highest].marks);
     printf("Average marks of class: %.2f",avg );
 
     return 0;
