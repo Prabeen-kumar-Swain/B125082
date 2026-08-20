@@ -1,4 +1,4 @@
-//8. Hostel Fee Management
+//7. Movie Ticket Booking
 #include <iostream>
 using namespace std;
 
