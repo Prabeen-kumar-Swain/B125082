@@ -1,4 +1,4 @@
-//7. Movie Ticket Booking
+//8. Hostel Fee Management
 #include <iostream>
 #include <string>
 
